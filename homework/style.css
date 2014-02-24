@@ -50,7 +50,7 @@ table {
 /* Add Styles Here */
 body { font-family:Helvetica; font-size:14px; }
 section#content { margin:0 auto; width:960px; padding:50px 50px; }
-a {text-decoration:none; color:#6699FF}
+a {text-decoration:none; color:#FF3333}
 
 h1 { font-family:Helvetica; text-transform:uppercase; font-size:50px; font-weight:bold; color:black;  }
 h2 { font-size:25px; font-weight:bold; color:black;  padding-top:30px;}

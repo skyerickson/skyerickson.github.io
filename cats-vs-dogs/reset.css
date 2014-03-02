@@ -73,4 +73,12 @@ table {
 html[xmlns] .clearfix { display: block; }
 * html .clearfix { height: 1%; }
 
+/*END OF THA RESET*/
+
+li {
+
+	text-decoration:none;
+	float:left;
+}
+
 

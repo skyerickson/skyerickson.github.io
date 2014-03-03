@@ -75,10 +75,63 @@ html[xmlns] .clearfix { display: block; }
 
 /*END OF THA RESET*/
 
-li {
+header {
 
 	text-decoration:none;
-	float:left;
+	font-size:100px;
+	font-family:"League Gothic";
+	margin:10px;
+	padding:30px;
+	text-align:center;
 }
 
+nav>ul>li>a {
+
+	list-style:none;
+	text-decoration:none;
+    font-family:georgia;
+	float:left;
+	text-align:center;
+	padding:20px;
+	color:black;
+	margin:0;
+	font-size:20px;
+	border-top:2px solid black;
+	border-bottom:2px solid black;
+}
+
+img {
+
+	width:300px;
+
+}
+
+#dogs {
+
+	
+	max-width:300px;
+	padding-top:50px;
+	padding-left:50px;
+	
+
+	
+}
+
+#cats {
+	
+	float:right;
+	max-width:300px;
+}
+
+h1 {
+
+	text-align:left;
+	font-size:30px;
+}
+
+footer {
+
+	padding-top:500px;
+	padding-bottom:2px;
+}
 

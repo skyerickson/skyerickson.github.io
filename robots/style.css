@@ -32,7 +32,9 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
-	line-height: 1;
+	line-height: 1
+	width:960px;
+	margin:0 auto;
 }
 ol, ul {
 	list-style: none;
@@ -49,4 +51,153 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+/*-------------------START BELOW------------------------*/
+
+
+#site-header h1 a {
+ display:block; â€¨
+ width:306px; 
+ height:123px;  
+ background:url(images/logo.png) no-repeat top left; 
+ text-indent:-9999px;
+ }
+
+
+body {font-family:helvetica;
+width:1000px; }
+
+li a {color:white;
+font-family:helvetica;
+text-decoration:none;
+text-transform:uppercase;}
+
+#top-nav a {text-decoration:none;
+color:#4f3a11;
+padding:10px -5px 15px 5px;}
+
+#site-header 
+	{
+	position:relative;
+	height:130px;
+	background-color:#FEFEF2;
+	text-decoration:none;
+	}
+
+#site-header h1 
+	{
+	position:absolute;
+	display:block;
+	width:306px;
+	height:123px;
+	background-color:#d4e0a3;
+	left:15px;
+	text-decoration:none;
+}
+#top-nav 
+	{ 
+	position:absolute;
+	right:15px;
+	width:150px;
+	height:20px;
+	background-color:#FEFEF2;
+	font-family:helvetica;
+	font-size:12px;
+	text-decoration:none;
+	}
+
+	
+
+#main-menu 
+	{
+	position:relative;
+	height:55px;
+	background-color:#4f3a11;
+	text-decoration:none;
+	font-color:white;
+	}	
+#main-menu li
+	{float:left;
+	display:block;
+	padding:10px;
+	margin:10px 0px 5px 15px;
+	background-color:#4f3a11;
+	}
+
+
+article h1 
+	{font-size:27px;
+	color:#4f3a11;}	
+
+article h2 
+	{font-size:22px;
+	color:#4f3a11;
+	padding:10px 0px 10px 0px;
+	font-weight:bold;}
+
+article p {font-size:15px;}
+
+#page 
+	{ 
+	float:left; 
+	width:60%;
+	margin:20px 15px;
+	padding:10px;
+	}	
+
+#page h1
+	{font-size:40px;}
+
+#sidebar {
+	float:right;
+	width:30%;
+	margin-top:20px;
+	padding:10px;
+	
+}
+
+#sidebar h1 {font-size:20px;
+text-transform:uppercase;
+font-weight:bold;
+padding:0px 0px 10px 0px;}
+
+#sidebar a {color:#4f3a11;
+text-transform:lowercase; 
+ }
+
+#sidebar li {padding:0px 0px 8px 0px;}
+
+#site-footer {
+	clear:both;
+	position:relative;
+	height:55px;
+	background-color:#4f3a11;
+	font-color:white;
+	padding:20px 10px 200px 10px;
+}
+
+#footer-contact h1 {
+	background-color:#4f3a11;
+	color:tan;
+	position:relative;
+	width:20%;
+	padding:20px;
+	text-transform:uppercase;
+}
+
+#footer-contact p {position:absolute;
+width:200px;
+color:white;
+padding:20px;}
+
+#footer-follow h1 {float:right;
+color:tan;
+text-transform:uppercase;
+width:20%;
+padding:0px 10px 20px 10px;
+}
+
+#footer-follow li {float:right;
+}
+
 

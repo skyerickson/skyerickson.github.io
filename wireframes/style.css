@@ -70,25 +70,33 @@ h4 {
 
 #wireframez img {
 
-	float: left;
+
 	padding: 40px 30px 20px 90px;
-	max-width:400px;
+	max-width:500px;
 	
 }
 
 #wireframed img {
 
-	float: left;
+	
 	padding: 40px 30px 20px 50px;
-	max-width:400px;
+	max-width:500px;
 	
 	
 }
 
 #wireframe img {
 
-	float: left;
+
 	padding: 40px 30px 50px 90px;
-	max-width: 400px;
+	max-width: 500px;
 }
 
+#four img {
+
+	
+	padding: 40px 30px 20px 50px;
+	max-width:12px;
+	
+	
+}

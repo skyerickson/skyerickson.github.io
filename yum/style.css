@@ -90,6 +90,7 @@ h3 {
 
 a {
 
-	position:bottom;
+	float:left;
+	padding-left:50px;
 	
 }

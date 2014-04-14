@@ -54,3 +54,42 @@ table {
 /* END RESET */
 
 
+h1 {
+
+	text-transform:uppercase;
+	font-size:70px;
+	font-family: 'league gothic';
+
+
+}
+
+h3 {
+
+	text-decoration:underline;
+	font-size:30px;
+	font-family: 'league gothic';
+	padding-bottom:30px;
+}
+
+#ingredients {
+
+	font-size:13px;
+	padding-bottom:30px;
+	float:left;
+	padding-right:40px;
+	max-width:200px;
+}
+
+#instructions {
+	float:left;
+
+	font-size:13px;
+	max-width:200px;
+
+}
+
+a {
+
+	position:bottom;
+	
+}

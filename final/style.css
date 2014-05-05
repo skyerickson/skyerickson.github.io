@@ -1,0 +1,246 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* Add Styles Here */
+
+a:link {color:black; text-decoration: none; } 
+a:visited {color:black; text-decoration: none; } 
+a:hover {color:lightblue; text-decoration: none; }
+
+.nav {
+
+	margin:1em;
+	padding-bottom:5em;
+
+}
+
+#menu {
+
+	
+	padding-top:14em;
+	text-align:center;
+	text-decoration: none;
+	font-family: sans-serif;
+	font-color:gray;
+	
+
+}
+
+
+.work1>img {
+
+	max-width:250px;
+	float:left;
+	margin-left:18em;
+
+
+}
+
+.work2>img {
+
+	max-width:250px;
+	float:left;
+	margin-left:19em;
+	
+
+}
+
+.work3>img {
+
+	max-width:250px;
+	float:left;
+	margin-left:20em;
+	
+
+}
+
+.work4>img {
+
+	max-width:250px;
+	clear:both;
+	float:left;
+	margin-left:18em;
+	
+
+}
+
+.work5>img {
+
+	max-width:250px;
+	float:left;
+	margin-left:19em;
+	
+
+}
+
+.work6>img {
+
+	max-width:250px;
+	float:left;
+	margin-left:20em;
+	
+
+}
+
+.work7>img {
+
+	max-width:250px;
+	clear:both;
+	float:left;
+	margin-left:18em;
+
+	
+
+}
+
+.work8>img {
+
+	max-width:250px;
+	float:left;
+	margin-left:19em;
+	
+
+}
+
+.work9>img {
+
+	max-width:250px;
+	float:left;
+	margin-left:20em;
+	
+
+}
+
+.work1 {
+
+	max-width:250px;
+	float:left;
+	
+
+
+}
+
+.work2 {
+
+	max-width:250px;
+	float:left;
+	
+
+}
+
+.work3 {
+
+	max-width:250px;
+	float:left;
+	
+
+}
+
+.work4 {
+
+	max-width:250px;
+	clear:both;
+	float:left;
+	
+
+}
+
+.work5 {
+
+	max-width:250px;
+	float:left;
+	
+
+}
+
+.work6 {
+
+	max-width:250px;
+	float:left;
+	
+
+}
+
+.work7 {
+
+	max-width:250px;
+	clear:both;
+	float:left;
+
+	
+
+}
+
+.work8 {
+
+	max-width:250px;
+	float:left;
+	
+
+}
+
+.work9 {
+
+	max-width:250px;
+	float:left;
+	
+
+}
+
+.menu {
+
+	float:left;
+	position:relative;
+	text-align:center;
+
+}
+
+@media screen and (max-width:500px) {
+    #main > h1 { font-size:2em; } 
+	#menu {font-size:.4em;}}

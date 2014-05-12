@@ -101,7 +101,7 @@ p {
 
 	text-align:left;
 	position:relative;
-	
+	min-width:20em;
 	padding-top:3.5em;
 	width:20em;
 	font-family:'Raleway', sans-serif;
